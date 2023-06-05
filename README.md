@@ -2,9 +2,10 @@
     Ангела Величковска, 213097
 
 
+![image](https://github.com/angelavelichkovska/SI_2023_lab2_213097/assets/129554338/1d7b3de2-68da-430d-a53b-26c7a63a6109)
 
- ![image](https://github.com/angelavelichkovska/SI_2023_lab2_213097/assets/129554338/4b5ae254-f3b4-4dfc-bc94-5051c08a3f90)
 
+ 
 
 
 
